@@ -3,7 +3,7 @@ import Link from "next/link";
 
 export default function Footer() {
   return (
-    <div style={{ height: "243px", marginTop: "240px" }}>
+    <div style={{ height: "243px", marginTop: "200px" }}>
       <div
         style={{
           display: "flex",

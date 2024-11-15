@@ -197,7 +197,7 @@
   color: #0000009e;
 }
 
-.featured-child p {
+.featured-child h4 {
   font-size: 18px;
   font-weight: 300;
 }
@@ -228,6 +228,7 @@ footer p {
     font-size: 17px;
     height: 100px;
     justify-content: center;
+    color: black;
     gap: 20px;
   }
 
@@ -256,6 +257,7 @@ footer p {
 
   .hero p {
     font-size: 14px;
+    color: black;
   }
 
   .hero button {
@@ -280,7 +282,11 @@ footer p {
     gap: 20px;
   }
 
-  .recent-child h5,
+  .recent-child h5 {
+    color: black;
+    font-size: 18px;
+  }
+
   .recent-child h6 {
     font-size: 18px;
   }
@@ -299,10 +305,15 @@ footer p {
 
   .card h1 {
     font-size: 20px;
+    color: black;
   }
 
   .card-date {
     font-size: 14px;
+  }
+
+  .card p {
+    color: black;
   }
 
   .featured-heading {
@@ -315,6 +326,7 @@ footer p {
 
   .featured-heading h2 {
     font-size: 20px;
+    color: black;
   }
 
   .featured-parent {
@@ -335,6 +347,11 @@ footer p {
 
   .featured-child h1 {
     font-size: 24px;
+    color: black;
+  }
+
+  .featured-child h4 {
+    color: black;
   }
 
   .featured-year h3 {
@@ -359,5 +376,6 @@ footer p {
   footer p {
     font-size: 18px;
     text-align: center;
+    color: black;
   }
 }

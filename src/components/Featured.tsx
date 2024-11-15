@@ -19,11 +19,11 @@ export default function Featured(data: { font: { className: string } }) {
               <h3>2020</h3>
               <p>Dashboard</p>
             </div>
-            <p>
+            <h4>
               Amet minim mollit non deserunt ullamco est sit aliqua dolor do
               amet sint. Velit officia consequat duis enim velit mollit.
               Exercitation veniam consequat sunt nostrud amet.
-            </p>
+            </h4>
           </div>
         </div>
         <div className="featured">
@@ -40,11 +40,11 @@ export default function Featured(data: { font: { className: string } }) {
               <h3>2020</h3>
               <p>Dashboard</p>
             </div>
-            <p>
+            <h4>
               Amet minim mollit non deserunt ullamco est sit aliqua dolor do
               amet sint. Velit officia consequat duis enim velit mollit.
               Exercitation veniam consequat sunt nostrud amet.
-            </p>
+            </h4>
           </div>
         </div>
         <div className="featured">
@@ -61,11 +61,11 @@ export default function Featured(data: { font: { className: string } }) {
               <h3>2020</h3>
               <p>Dashboard</p>
             </div>
-            <p>
+            <h4>
               Amet minim mollit non deserunt ullamco est sit aliqua dolor do
               amet sint. Velit officia consequat duis enim velit mollit.
               Exercitation veniam consequat sunt nostrud amet.
-            </p>
+            </h4>
           </div>
         </div>
       </div>
